@@ -1,0 +1,15 @@
+C:\Workspace\TestWebServer\FlicRepository\bin\Debug\net5.0\FlicHandler.deps.json
+C:\Workspace\TestWebServer\FlicRepository\bin\Debug\net5.0\FlicHandler.dll
+C:\Workspace\TestWebServer\FlicRepository\bin\Debug\net5.0\ref\FlicHandler.dll
+C:\Workspace\TestWebServer\FlicRepository\bin\Debug\net5.0\FlicHandler.pdb
+C:\Workspace\TestWebServer\FlicRepository\bin\Debug\net5.0\FlicCommon.dll
+C:\Workspace\TestWebServer\FlicRepository\bin\Debug\net5.0\FlicCommon.pdb
+C:\Workspace\TestWebServer\FlicRepository\obj\Debug\net5.0\FlicHandler.csproj.AssemblyReference.cache
+C:\Workspace\TestWebServer\FlicRepository\obj\Debug\net5.0\FlicHandler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\TestWebServer\FlicRepository\obj\Debug\net5.0\FlicHandler.AssemblyInfoInputs.cache
+C:\Workspace\TestWebServer\FlicRepository\obj\Debug\net5.0\FlicHandler.AssemblyInfo.cs
+C:\Workspace\TestWebServer\FlicRepository\obj\Debug\net5.0\FlicHandler.csproj.CoreCompileInputs.cache
+C:\Workspace\TestWebServer\FlicRepository\obj\Debug\net5.0\FlicHandler.csproj.CopyComplete
+C:\Workspace\TestWebServer\FlicRepository\obj\Debug\net5.0\FlicHandler.dll
+C:\Workspace\TestWebServer\FlicRepository\obj\Debug\net5.0\ref\FlicHandler.dll
+C:\Workspace\TestWebServer\FlicRepository\obj\Debug\net5.0\FlicHandler.pdb

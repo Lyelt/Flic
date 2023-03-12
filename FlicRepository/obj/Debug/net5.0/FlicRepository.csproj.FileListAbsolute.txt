@@ -1,0 +1,15 @@
+C:\Workspace\TestWebServer\FlicRepository\bin\Debug\net5.0\FlicRepository.deps.json
+C:\Workspace\TestWebServer\FlicRepository\bin\Debug\net5.0\FlicRepository.dll
+C:\Workspace\TestWebServer\FlicRepository\bin\Debug\net5.0\ref\FlicRepository.dll
+C:\Workspace\TestWebServer\FlicRepository\bin\Debug\net5.0\FlicRepository.pdb
+C:\Workspace\TestWebServer\FlicRepository\bin\Debug\net5.0\FlicCommon.dll
+C:\Workspace\TestWebServer\FlicRepository\bin\Debug\net5.0\FlicCommon.pdb
+C:\Workspace\TestWebServer\FlicRepository\obj\Debug\net5.0\FlicRepository.csproj.AssemblyReference.cache
+C:\Workspace\TestWebServer\FlicRepository\obj\Debug\net5.0\FlicRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\TestWebServer\FlicRepository\obj\Debug\net5.0\FlicRepository.AssemblyInfoInputs.cache
+C:\Workspace\TestWebServer\FlicRepository\obj\Debug\net5.0\FlicRepository.AssemblyInfo.cs
+C:\Workspace\TestWebServer\FlicRepository\obj\Debug\net5.0\FlicRepository.csproj.CoreCompileInputs.cache
+C:\Workspace\TestWebServer\FlicRepository\obj\Debug\net5.0\FlicRepository.csproj.CopyComplete
+C:\Workspace\TestWebServer\FlicRepository\obj\Debug\net5.0\FlicRepository.dll
+C:\Workspace\TestWebServer\FlicRepository\obj\Debug\net5.0\ref\FlicRepository.dll
+C:\Workspace\TestWebServer\FlicRepository\obj\Debug\net5.0\FlicRepository.pdb

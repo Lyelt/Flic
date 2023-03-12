@@ -1,0 +1,72 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FlicHandler/1.0.0": {
+        "dependencies": {
+          "FlicCommon": "1.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.1.23110.8"
+        },
+        "runtime": {
+          "FlicHandler.dll": {}
+        }
+      },
+      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.1.23110.8": {
+        "dependencies": {
+          "System.Buffers": "4.5.1",
+          "System.Memory": "4.5.5"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.11008"
+          }
+        }
+      },
+      "System.Buffers/4.5.1": {},
+      "System.Memory/4.5.5": {},
+      "FlicCommon/1.0.0": {
+        "runtime": {
+          "FlicCommon.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FlicHandler/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.1.23110.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lLm4zKYdOdarUU6/NnMOPqUF7yrYjNq89zU/7Lvqp1EAzJvW5FjI9qKNV25fSYaFkuH7jQWuGhOZTIii0BdiZw==",
+      "path": "microsoft.extensions.logging.abstractions/8.0.0-preview.1.23110.8",
+      "hashPath": "microsoft.extensions.logging.abstractions.8.0.0-preview.1.23110.8.nupkg.sha512"
+    },
+    "System.Buffers/4.5.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Rw7ijyl1qqRS0YQD/WycNst8hUUMgrMH4FCn1nNm27M4VxchZ1js3fVjQaANHO5f3sN4isvP4a+Met9Y4YomAg==",
+      "path": "system.buffers/4.5.1",
+      "hashPath": "system.buffers.4.5.1.nupkg.sha512"
+    },
+    "System.Memory/4.5.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XIWiDvKPXaTveaB7HVganDlOCRoj03l+jrwNvcge/t8vhGYKvqV+dMv6G4SAX2NoNmN0wZfVPTAlFwZcZvVOUw==",
+      "path": "system.memory/4.5.5",
+      "hashPath": "system.memory.4.5.5.nupkg.sha512"
+    },
+    "FlicCommon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

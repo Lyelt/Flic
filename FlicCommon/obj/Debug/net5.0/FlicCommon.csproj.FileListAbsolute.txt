@@ -1,0 +1,12 @@
+C:\Workspace\TestWebServer\FlicCommon\bin\Debug\net5.0\FlicCommon.deps.json
+C:\Workspace\TestWebServer\FlicCommon\bin\Debug\net5.0\FlicCommon.dll
+C:\Workspace\TestWebServer\FlicCommon\bin\Debug\net5.0\ref\FlicCommon.dll
+C:\Workspace\TestWebServer\FlicCommon\bin\Debug\net5.0\FlicCommon.pdb
+C:\Workspace\TestWebServer\FlicCommon\obj\Debug\net5.0\FlicCommon.csproj.AssemblyReference.cache
+C:\Workspace\TestWebServer\FlicCommon\obj\Debug\net5.0\FlicCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\TestWebServer\FlicCommon\obj\Debug\net5.0\FlicCommon.AssemblyInfoInputs.cache
+C:\Workspace\TestWebServer\FlicCommon\obj\Debug\net5.0\FlicCommon.AssemblyInfo.cs
+C:\Workspace\TestWebServer\FlicCommon\obj\Debug\net5.0\FlicCommon.csproj.CoreCompileInputs.cache
+C:\Workspace\TestWebServer\FlicCommon\obj\Debug\net5.0\FlicCommon.dll
+C:\Workspace\TestWebServer\FlicCommon\obj\Debug\net5.0\ref\FlicCommon.dll
+C:\Workspace\TestWebServer\FlicCommon\obj\Debug\net5.0\FlicCommon.pdb

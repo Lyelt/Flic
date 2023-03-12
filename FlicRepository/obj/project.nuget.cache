@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ujKrZCjD1VdThnEaVdLnEXX43OnaBqh7ODSOQQxJHUVrm0EKKn5d03KG9kw1aMeXVqUhF2avcYRb2m2HO0tePA==",
+  "success": true,
+  "projectFilePath": "C:\\Workspace\\TestWebServer\\FlicRepository\\FlicHandler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nicho\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0-preview.1.23110.8\\microsoft.extensions.logging.abstractions.8.0.0-preview.1.23110.8.nupkg.sha512",
+    "C:\\Users\\nicho\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\nicho\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}
